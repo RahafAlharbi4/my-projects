@@ -51,9 +51,6 @@ Visualizations Used in Power BI
 📦 Stacked Column Chart: Household spending breakdown by category
 Dashboard
 
-🔗 Power BI Dashboard Link:
-(ضعين رابط الباور بي آي هنا)
-
 ⚠️ Note
 
 The Power BI dashboard is not viewable directly on GitHub.
