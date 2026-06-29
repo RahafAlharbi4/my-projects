@@ -16,9 +16,9 @@ My Portfolio Website For Data Analysis
 
 
 
-## 🔗 Related Projects
+## 🏆 Hackathon
 
-This project is part of a collaborative hackathon project:
+Participated in the Data Innovation Hackathon (SDAIA × GASTAT), focused on building data-driven solutions using real-world datasets.
 
 - **GigScope (Signal X Team)**  
   👉 (https://github.com/RahafAlharbi4/SignalX-Hackathon-Project)
