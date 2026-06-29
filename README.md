@@ -13,3 +13,12 @@ All projects were completed as part of my Management Information Systems studies
 
 My Portfolio Website For Data Analysis
 👉 (https://rahaf-sa-portfolio.netlify.app/)
+
+
+
+## 🔗 Related Projects
+
+This project is part of a collaborative hackathon project:
+
+- **GigScope (Signal X Team)**  
+  👉 https://github.com/username/SignalX-Hackathon-Project
